@@ -11,10 +11,10 @@ Clean junky structures
 Download .zip file, or use `git clone https://github.com/Skapty6260/R3F-Rubik-s-Cube`.
 
 1.**Install the packages**
-Use `yarn install`
+Using `yarn install`
 
 2.**Starting**
-Use `yarn run dev`
+Using `yarn run dev`
 *This will takes up some time, cause nextjs on first run will cache up all the static files*.
 
 Boom, now you can play!
